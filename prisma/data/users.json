@@ -1,0 +1,25 @@
+[
+  {
+    "name": "CM - Carcavelos",
+    "username": "cmcarcavelos",
+    "email": "cmcarcavelos@gmail.com",
+    "password": "",
+    "photo": "",
+    "type": "CM"
+  },
+  {
+    "name": "ICNF",
+    "username": "icnf-admin",
+    "email": "icnf-admin@gmail.com",
+    "password": "",
+    "photo": "",
+    "type": "ICNF"
+  },
+  {
+    "name": "Marcelo Fernandes",
+    "username": "fmarcelo",
+    "email": "fmarcelo@gmail.com",
+    "password": "",
+    "photo": ""
+  }
+]

@@ -1,0 +1,11 @@
+version: '3'
+services:
+  database:
+    #    command: ["postgres", "-c", "log_statement=all"]
+    image: 'postgres:13'
+    environment:
+      - POSTGRES_USER=chama
+      - POSTGRES_PASSWORD=segura
+      - POSTGRES_DB=chamasegura
+    ports:
+      - '6432:5432'
